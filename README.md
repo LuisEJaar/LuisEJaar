@@ -1,7 +1,6 @@
 - Hi, I’m @LuisEJaar
 - I’m interested in a smattering of things.
-- I’m currently learning full stack development through The Odin Project.
-- I’m looking to collaborate on nothing at the moment, I'm far too green. But feel free to say hello. 
+- I’m open to collaborating and hope that you find something in my past work that inspires you. But feel free to say hello. 
 - You may reach me at luisjaarcoding@gmail.com
 
 <!---
