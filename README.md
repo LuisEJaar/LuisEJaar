@@ -2,6 +2,7 @@
 - I’m interested in a smattering of things.
 - I’m open to collaborating and hope that you find something in my past work that inspires you. But feel free to say hello. 
 - You may reach me at luisjaarcoding@gmail.com
+- For those interested in my codewars account: https://www.codewars.com/users/LuisEJaar
 
 <!---
 LuisEJaar/LuisEJaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
