@@ -1,15 +1,25 @@
 - Hi, I’m @LuisEJaar
-- I’m interested in a smattering of things.
+- I’m interested being as well rounded of a developer as possible.
 - I’m open to collaborating and hope that you find something in my past work that inspires you. But feel free to say hello. 
-- You may reach me at luisjaarcoding@gmail.com
-- For those interested in my codewars account: https://www.codewars.com/users/LuisEJaar
+- Feel free to message me at luisjaarcoding@gmail.com
 
 To hear my story: 
 
-Born in a small town, my beginnings are rather quaint and humble. I attended Mississippi State University where I received my degree in Mechanical Engineering in 2010. While in college I did a number of jobs including Engineering Research, Resident Adviser, Co-Op rotations, and even being a model for art classes. Upon graduation I felt that I was drawn towards coding but decided to try and use the degree that I had worked so hard for. My Engineering career was certainly an interesting one which allowed me to design custom jet interiors at Dassault Falcon Jet and write instruction for aircraft repair with AIRBUS on top of traveling to some interesting places. Ultimately my desire to code won and I started on my journey of teaching myself a new field. While choosing to leave a prosperous career to pursue my passion was and still can be truly daunting, I beleived in myself enough to take the jump and know that I have made the right choice. I found a group called #100Devs after a few months of self study and have been engaged with them ever since. 
+After a successful career in Mechanical Engineering, I found the problems in engineering software were more interesting than the problems I solved professionally. Ultimately the desire to fix said problems lead to my interest in software development. I haven't looked back since. 
  
+<!-- Connect with me section -->
+ 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ 
+<a href="https://twitter.com/luisejaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luisejaar" height="30" width="40" /></a><a href="https://linkedin.com/in/luis jaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis jaar" height="30" width="40" /></a>
+</a><a a href="https://www.codewars.com/users/LuisEJaar" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="codewars" width="40" height="40"/> </a>
+</p>
 
-<!---
-LuisEJaar/LuisEJaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Languages / Tools section -->
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisejaar&" alt="luisejaar" /></p>
