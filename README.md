@@ -5,7 +5,7 @@
 
 To hear my story: 
 
-After a successful career in Mechanical Engineering, I found the problems in engineering software were more interesting than the problems I solved professionally. Ultimately the desire to fix said problems lead to my interest in software development. I haven't looked back since. 
+After a successful career in Mechanical Engineering, I found the problems in engineering software were more interesting than the problems I solved professionally. Ultimately the desire to fix said problems lead to my interest in software development. Feel free to check out some of my projects below!
  
 <!-- Connect with me section -->
  
