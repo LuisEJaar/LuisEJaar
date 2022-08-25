@@ -26,7 +26,7 @@ After a successful career in Mechanical Engineering, I found the problems in eng
       <h3 align="center">Plantily</h3>
         <br />
         <a target="_blank" href="https://plantily.herokuapp.com/">
-            <img src="https://github.com/LuisEJaar/luisEJaar/blob/main/plantilypage.jpg" width="100%" height="270px" alt="Plantily Site"/>
+            <img src="https://github.com/LuisEJaar/luisEJaar/blob/main/plantilypage.JPG" width="100%" height="270px" alt="Plantily Site"/>
         </a>
         <br />
         <p align="center">
