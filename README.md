@@ -56,6 +56,43 @@ After a successful career in Mechanical Engineering, I found the problems in eng
         <p align="center"><strong>Web Development - animate.css, Node.js Hosted on Heroku</strong></p>
     </td>
   </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Travel Diary</h3>
+        <br />
+        <a target="_blank" href="https://scrimba-travel-journal.herokuapp.com/">
+            <img src="https://github.com/LuisEJaar/luisEJaar/blob/main/travel-diary.JPG" width="100%" height="270px" alt="React Diary"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/LuisEJaar/travel-diary" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
+  <a href="https://scrimba-travel-journal.herokuapp.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
+        </p>
+         <p align="center"><strong>CRUD Web App - React live on Heroku </strong></p>
+    </td>
+    <!-- <td width="50%" valign="top">
+      <h3 align="center">Kitty Cat Fact Generator</h3>
+      <br />
+        <a target="_blank" href="https://kitty-cat-fact-generator.herokuapp.com/">
+          <img src="https://github.com/LuisEJaar/luisEJaar/blob/main/kittyCatFact.gif" width="95%" height="270px" alt="kitty-cat-fact-generator Site"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/LuisEJaar/kitty-cat-fact-generator" target="_blank">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
+  </a>
+  <a href="https://kitty-cat-fact-generator.herokuapp.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
+  </a>
+      </p>
+        <p align="center"><strong>Web Development - animate.css, Node.js Hosted on Heroku</strong></p>
+    </td> -->
+  </tr>
+  
 </table>
 
 
