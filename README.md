@@ -31,7 +31,8 @@ After a successful career in Mechanical Engineering, I found the problems in eng
         <br/>
         <p align="center">  
            <a href="https://github.com/LuisEJaar/Plantily" target="_blank" rel="noreferrer">
-              <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
+              <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px">  
+           </a> 
            <a href="https://plantily.herokuapp.com/" target="_blank" rel="noreferrer">
               <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px">
            </a>
@@ -79,19 +80,40 @@ After a successful career in Mechanical Engineering, I found the problems in eng
     <td width="50%" valign="top">
       <h3 align="center">Anime Food Fun</h3>
       <br />
-        <a target="_blank" href="https://luisejaar.github.io/AnimeFoodFun/">
-          <img src="https://github.com/LuisEJaar/luisEJaar/blob/main/animeFoodFun.gif" width="95%" height="270px" alt="kitty-cat-fact-generator Site"/>
-        </a>
+      <a target="_blank" href="https://luisejaar.github.io/AnimeFoodFun/">
+        <img src="https://github.com/LuisEJaar/luisEJaar/blob/main/animeFoodFun.gif" width="95%" height="270px" alt="kitty-cat-fact-generator Site"/>
+      </a>
       <br />
-        <p align="center">
-  <a href="https://github.com/LuisEJaar/AnimeFoodFun/tree/main" target="_blank">
-    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
-  </a>
-  <a href="https://luisejaar.github.io/AnimeFoodFun/" target="_blank">
-    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
-  </a>
+      <p align="center">
+         <a href="https://github.com/LuisEJaar/AnimeFoodFun/tree/main" target="_blank">
+           <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px">
+         </a> 
+         <a href="https://luisejaar.github.io/AnimeFoodFun/" target="_blank">
+            <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
+         </a>
       </p>
-        <p align="center"><strong>Web Development - CSS / JS / HTML</strong></p>
+      <p align="center"><strong>Web Development - CSS / JS / HTML</strong></p>
+    </td>
+  </tr>
+   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Tic Tac Toe</h3>
+      <br/>
+      <p align="center">
+         <a target="_blank" href="https://luisejaar.github.io/TicTacToe/" margin-left="50px">
+            <img src="https://github.com/LuisEJaar/luisEJaar/blob/main/tictactoe.gif" width="50%" height="270px" alt="React Diary"/>
+         </a>
+      </p>
+      <br/>
+      <p align="center">
+         <a href="https://github.com/LuisEJaar/TicTacToe/" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px">
+         </a> 
+         <a href="https://luisejaar.github.io/TicTacToe/" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px">
+         </a>
+      </p>
+      <p align="center"><strong>Static Web App - React live on Heroku </strong></p>
     </td>
   </tr>
 </table>
