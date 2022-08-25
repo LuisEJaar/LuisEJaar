@@ -76,23 +76,23 @@ After a successful career in Mechanical Engineering, I found the problems in eng
       </p>
       <p align="center"><strong>Static Web App - React live on Heroku </strong></p>
     </td>
-    <!-- <td width="50%" valign="top">
-      <h3 align="center">Travel-Journal</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">Anime Food Fun</h3>
       <br />
-        <a target="_blank" href="https://kitty-cat-fact-generator.herokuapp.com/">
-          <img src="https://github.com/LuisEJaar/luisEJaar/blob/main/kittyCatFact.gif" width="95%" height="270px" alt="kitty-cat-fact-generator Site"/>
+        <a target="_blank" href="https://luisejaar.github.io/AnimeFoodFun/">
+          <img src="https://github.com/LuisEJaar/luisEJaar/blob/main/animeFoodFun.gif" width="95%" height="270px" alt="kitty-cat-fact-generator Site"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/LuisEJaar/kitty-cat-fact-generator" target="_blank">
+  <a href="https://github.com/LuisEJaar/AnimeFoodFun/tree/main" target="_blank">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
   </a>
-  <a href="https://kitty-cat-fact-generator.herokuapp.com/" target="_blank">
+  <a href="https://luisejaar.github.io/AnimeFoodFun/" target="_blank">
     <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
   </a>
       </p>
-        <p align="center"><strong>Web Development - animate.css, Node.js Hosted on Heroku</strong></p>
-    </td> -->
+        <p align="center"><strong>Web Development - CSS / JS / HTML</strong></p>
+    </td>
   </tr>
 </table>
 
