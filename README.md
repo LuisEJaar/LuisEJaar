@@ -15,6 +15,49 @@ After a successful career in Mechanical Engineering, I found the problems in eng
 <a href="https://twitter.com/luisejaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luisejaar" height="30" width="40" /></a><a href="https://linkedin.com/in/luis jaar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis jaar" height="30" width="40" /></a>
 </a><a a href="https://www.codewars.com/users/LuisEJaar" target="_blank" rel="noreferrer"> <img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="codewars" width="40" height="40"/> </a>
 </p>
+<!-- Table of projects -->
+
+<h1 align="center">Projects</h1>
+
+<table bordercolor="#a3496a">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Plantily</h3>
+        <br />
+        <a target="_blank" href="https://plantily.herokuapp.com/">
+            <img src="https://github.com/LuisEJaar/luisEJaar/blob/main/plantilypage.jpg" width="100%" height="270px" alt="Plantily Site"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/LuisEJaar/Plantily" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
+  <a href="https://plantily.herokuapp.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
+        </p>
+         <p align="center"><strong>CRUD Web App - Bootstrap, MongoDB, Express, EJS, Oauth, Passport live on Heroku </strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Kitty Cat Fact Generator</h3>
+      <br />
+        <a target="_blank" href="https://kitty-cat-fact-generator.herokuapp.com/">
+          <img src="https://github.com/LuisEJaar/luisEJaar/blob/main/kittyCatFact.gif" width="95%" height="270px" alt="kitty-cat-fact-generator Site"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/LuisEJaar/kitty-cat-fact-generator" target="_blank">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px"></a> 
+  </a>
+  <a href="https://kitty-cat-fact-generator.herokuapp.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
+  </a>
+      </p>
+        <p align="center"><strong>Web Development - animate.css, Node.js Hosted on Heroku</strong></p>
+    </td>
+  </tr>
+</table>
+
 
 <!-- Languages / Tools section -->
 
