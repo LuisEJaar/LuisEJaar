@@ -11,7 +11,7 @@ After a successful career in Mechanical Engineering, I found the problems in eng
 <h3 align="center">Connect with me:</h3>
 <div align="center" >
 
-<a href="https://twitter.com/luisejaar" target="blank" margin-right="50px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luisejaar" height="50" width="50" /></a><a><img width="50"></a><a href="https://linkedin.com/in/luisjaarcoding/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis jaar" height="50" width="50" /></a>
+<a href="https://twitter.com/luisejaar" target="_blank" margin-right="50px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luisejaar" height="50" width="50" /></a><a><img width="50"></a><a href="https://linkedin.com/in/luisjaarcoding/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis jaar" height="50" width="50" /></a>
 </a><a><img width="50"></a><a a href="https://www.codewars.com/users/LuisEJaar" target="_blank" rel="noreferrer"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="codewars" width="50" height="50"/></a>
 
 </div>
