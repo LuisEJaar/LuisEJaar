@@ -4,7 +4,7 @@
 
 To hear my story: 
 
-After a successful career in Mechanical Engineering, I found the problems in engineering software were more interesting than the problems I solved professionally. Ultimately the desire to fix said problems lead to my interest in software development. Feel free to check out some of my projects below!
+After a successful career in the Aerospace industry as a Mechanical Engineer, I found the problems in engineering software were more interesting than the problems I solved professionally. Ultimately the desire to fix said problems lead to my interest in software development. I pride myself on my desire to continuously learn and jump headfirst into every project large or small. I would describe myself as a passionate person who works well with others and keeps their eyes on the ultimate goal of producing quality work and tools that help others however I can.  Feel free to check out some of my projects below!
  
 <!-- Connect with me section -->
  
