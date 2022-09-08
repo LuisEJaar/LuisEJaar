@@ -113,7 +113,7 @@ After a successful career in the Aerospace industry as a Mechanical Engineer, I 
             <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px">
          </a>
       </p>
-      <p align="center"><strong>Static Web App - React live on Heroku </strong></p>
+      <p align="center"><strong>Static Web App - Live on github pages </strong></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Taskify</h3>
@@ -132,7 +132,7 @@ After a successful career in the Aerospace industry as a Mechanical Engineer, I 
             <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px">
          </a>
       </p>
-      <p align="center"><strong>Static Web App - React live on Heroku </strong></p>
+      <p align="center"><strong>Static Web App - React live on Github-Pages </strong></p>
     </td>
   </tr>
 </table>
