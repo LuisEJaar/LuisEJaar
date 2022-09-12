@@ -101,7 +101,7 @@ After a successful career in the Aerospace industry as a Mechanical Engineer, I 
       <br/>
       <p align="center">
          <a target="_blank" href="https://luisejaar.github.io/TicTacToe/" margin-left="50px">
-            <img src="https://github.com/LuisEJaar/luisEJaar/blob/main/tictactoe.gif" width="50%" height="270px" alt="React Diary"/>
+            <img src="https://github.com/LuisEJaar/luisEJaar/blob/main/tictactoe.gif" width="50%" height="270px" alt="Tic Tac Toe game"/>
          </a>
       </p>
       <br/>
@@ -113,7 +113,26 @@ After a successful career in the Aerospace industry as a Mechanical Engineer, I 
             <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px">
          </a>
       </p>
-      <p align="center"><strong>Static Web App - React live on Heroku </strong></p>
+      <p align="center"><strong>Static Web App - Live on github pages </strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Taskify</h3>
+      <br/>
+      <p align="center">
+         <a target="_blank" href="https://luisejaar.github.io/TSReactTaskTracker/" margin-left="50px">
+            <img src="https://github.com/LuisEJaar/luisEJaar/blob/main/taskifygif.gif" width="50%" height="270px" alt="React Tasks"/>
+         </a>
+      </p>
+      <br/>
+      <p align="center">
+         <a href="https://github.com/LuisEJaar/TSReactTaskTracker" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px">
+         </a> 
+         <a href="https://luisejaar.github.io/TSReactTaskTracker/" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px">
+         </a>
+      </p>
+      <p align="center"><strong>Static Web App - React live on Github-Pages </strong></p>
     </td>
   </tr>
 </table>
