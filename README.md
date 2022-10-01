@@ -22,12 +22,33 @@ After a successful career in the Aerospace industry as a Mechanical Engineer, I 
 <table bordercolor="#a3496a">
   
   <tr>
-     <td width="50%" valign="top">
+  <td width="50%" valign="top">
+        <h3 align="center">Chore-ify</h3>
+        <br/>
+        <p align="center">
+           <a target="_blank" href="https://chore-ify.herokuapp.com/">
+               <img src="https://github.com/LuisEJaar/luisEJaar/blob/main/JSTaskTracker.gif" height="400px" alt="Plantily Site"/>
+            </a>
+        </p>
+        <br/>
+        <p align="center">  
+           <a href="https://github.com/LuisEJaar/JSTaskTracker" target="_blank" rel="noreferrer">
+              <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px">  
+           </a> 
+           <a href="https://chore-ify.herokuapp.com/" target="_blank" rel="noreferrer">
+              <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px">
+           </a>
+        </p>
+        <p align="center"><strong>CRUD Web App - Bootstrap, MongoDB, Express, EJS, Passport, MVC, Flash live on Heroku </strong></p>
+    </td>
+    <td width="50%" valign="top">
         <h3 align="center">Plantily</h3>
         <br/>
-        <a target="_blank" href="https://plantily.herokuapp.com/">
-           <img src="https://github.com/LuisEJaar/luisEJaar/blob/main/plantilypage.JPG" width="100%" height="270px" alt="Plantily Site"/>
-        </a>
+        <p align="center">
+          <a target="_blank" href="https://plantily.herokuapp.com/">
+               <img src="https://github.com/LuisEJaar/luisEJaar/blob/main/plantilypage.JPG" height="400px" alt="Plantily Site"/>
+          </a>
+        </p>
         <br/>
         <p align="center">  
            <a href="https://github.com/LuisEJaar/Plantily" target="_blank" rel="noreferrer">
@@ -39,12 +60,16 @@ After a successful career in the Aerospace industry as a Mechanical Engineer, I 
         </p>
         <p align="center"><strong>CRUD Web App - Bootstrap, MongoDB, Express, EJS, Oauth, Passport live on Heroku </strong></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
        <h3 align="center">Kitty Cat Fact Generator</h3>
        <br/>
-       <a target="_blank" href="https://kitty-cat-fact-generator.herokuapp.com/">
-          <img src="https://github.com/LuisEJaar/luisEJaar/blob/main/kittyCatFact.gif" width="95%" height="270px" alt="kitty-cat-fact-generator Site"/>
-       </a>
+       <p align="center">
+            <a target="_blank" href="https://kitty-cat-fact-generator.herokuapp.com/">
+               <img src="https://github.com/LuisEJaar/luisEJaar/blob/main/kittyCatFact.gif" width="95%" height="270px" alt="kitty-cat-fact-generator Site"/>
+            </a>
+       </p>
       <br/>
       <p align="center">
          <a href="https://github.com/LuisEJaar/kitty-cat-fact-generator" target="_blank">
@@ -56,8 +81,6 @@ After a successful career in the Aerospace industry as a Mechanical Engineer, I 
       </p>
       <p align="center"><strong>Web Development - animate.css, Node.js Hosted on Heroku</strong></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Travel Diary</h3>
       <br/>
@@ -77,12 +100,16 @@ After a successful career in the Aerospace industry as a Mechanical Engineer, I 
       </p>
       <p align="center"><strong>Static Web App - React live on Heroku </strong></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Anime Food Fun</h3>
       <br />
-      <a target="_blank" href="https://luisejaar.github.io/AnimeFoodFun/">
-        <img src="https://github.com/LuisEJaar/luisEJaar/blob/main/animeFoodFun.gif" width="95%" height="270px" alt="kitty-cat-fact-generator Site"/>
-      </a>
+      <p align="center">
+          <a target="_blank" href="https://luisejaar.github.io/AnimeFoodFun/">
+               <img src="https://github.com/LuisEJaar/luisEJaar/blob/main/animeFoodFun.gif" width="95%" height="270px" alt="kitty-cat-fact-generator Site"/>
+          </a>
+      </p>
       <br />
       <p align="center">
          <a href="https://github.com/LuisEJaar/AnimeFoodFun/tree/main" target="_blank">
@@ -94,8 +121,6 @@ After a successful career in the Aerospace industry as a Mechanical Engineer, I 
       </p>
       <p align="center"><strong>Web Development - CSS / JS / HTML</strong></p>
     </td>
-  </tr>
-   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Tic Tac Toe</h3>
       <br/>
@@ -115,6 +140,8 @@ After a successful career in the Aerospace industry as a Mechanical Engineer, I 
       </p>
       <p align="center"><strong>Static Web App - Live on github pages </strong></p>
     </td>
+  </tr>
+   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Taskify</h3>
       <br/>
