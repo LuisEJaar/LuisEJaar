@@ -39,7 +39,7 @@ After a successful career in the Aerospace industry as a Mechanical Engineer, I 
               <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px">
            </a>
         </p>
-        <p align="center"><strong>CRUD Web App - Bootstrap, MongoDB, Express, EJS, Passport, MVC, Cloudinary, Flash live on Heroku</strong></p>
+        <p align="center"><strong>CRUD Web App - Bootstrap, MongoDB, Express, EJS, Passport, MVC, Cloudinary, Flash, live on Heroku</strong></p>
     </td>
   </tr>
   <tr>
@@ -60,7 +60,7 @@ After a successful career in the Aerospace industry as a Mechanical Engineer, I 
               <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px">
            </a>
         </p>
-        <p align="center"><strong>CRUD Web App - Bootstrap, MongoDB, Express, EJS, Passport, MVC, Flash live on Heroku </strong></p>
+        <p align="center"><strong>CRUD Web App - Bootstrap, MongoDB, Express, EJS, Passport, MVC, Flash, live on Heroku </strong></p>
     </td>
     <td width="50%" valign="top">
         <h3 align="center">Plantily</h3>
@@ -79,7 +79,7 @@ After a successful career in the Aerospace industry as a Mechanical Engineer, I 
               <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px">
            </a>
         </p>
-        <p align="center"><strong>CRUD Web App - Bootstrap, MongoDB, Express, EJS, Oauth, Passport live on Heroku </strong></p>
+        <p align="center"><strong>CRUD Web App - Bootstrap, MongoDB, Express, EJS, Oauth, Passport, live on Heroku </strong></p>
     </td>
   </tr>
   <tr>
