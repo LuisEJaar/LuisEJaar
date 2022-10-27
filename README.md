@@ -26,7 +26,7 @@ After a successful career in the Aerospace industry as a Mechanical Engineer, I 
         <h3 align="center">Not This Week</h3>
         <br/>
         <p align="center">
-           <a target="_blank" href="https://notthisweek.vercel.app/" target="_blank" rel="noreferrer">
+           <a target="_blank" href="https://notthisweek.herokuapp.com/" target="_blank" rel="noreferrer">
                <img src="https://github.com/LuisEJaar/luisEJaar/blob/main/notThisWeek.gif" height="400px" alt="Not This Week Site"/>
             </a>
         </p>
@@ -35,11 +35,11 @@ After a successful career in the Aerospace industry as a Mechanical Engineer, I 
            <a href="https://github.com/LuisEJaar/notThisWeek" target="_blank" rel="noreferrer">
               <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px">  
            </a> 
-           <a href="https://notthisweek.vercel.app/" target="_blank" rel="noreferrer">
+           <a href="https://notthisweek.herokuapp.com/" target="_blank" rel="noreferrer">
               <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px">
            </a>
         </p>
-        <p align="center"><strong>CRUD Web App - Bootstrap, MongoDB, Express, EJS, Passport, MVC, Cloudinary, Flash, Server live on Heroku, Client live on vercel</strong></p>
+        <p align="center"><strong>CRUD Web App - Socket.io, Formik, React, Bootstrap, MongoDB, Express, EJS, Passport, MVC, Cloudinary, Flash, Site live on Heroku</strong></p>
     </td>
   </tr>
   <tr>
