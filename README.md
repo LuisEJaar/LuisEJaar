@@ -56,17 +56,17 @@ After a successful career in the Aerospace industry as a Mechanical Engineer, I 
            <a href="https://github.com/LuisEJaar/JSTaskTracker" target="_blank" rel="noreferrer">
               <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px">  
            </a> 
-           <a href="https://chore-ify.herokuapp.com/" target="_blank" rel="noreferrer">
+           <a href="https://choreify.up.railway.app/" target="_blank" rel="noreferrer">
               <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px">
            </a>
         </p>
-        <p align="center"><strong>CRUD Web App - Bootstrap, MongoDB, Express, EJS, Passport, MVC, Flash, live on Heroku </strong></p>
+        <p align="center"><strong>CRUD Web App - Bootstrap, MongoDB, Express, EJS, Passport, MVC, Flash, live on Railway </strong></p>
     </td>
     <td width="50%" valign="top">
         <h3 align="center">Plantily</h3>
         <br/>
         <p align="center">
-          <a target="_blank" href="https://plantily.herokuapp.com/">
+          <a target="_blank" href="https://plantily.up.railway.app/">
                <img src="https://github.com/LuisEJaar/luisEJaar/blob/main/plantilypage.JPG" height="400px" alt="Plantily Site"/>
           </a>
         </p>
@@ -75,11 +75,11 @@ After a successful career in the Aerospace industry as a Mechanical Engineer, I 
            <a href="https://github.com/LuisEJaar/Plantily" target="_blank" rel="noreferrer">
               <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px">  
            </a> 
-           <a href="https://plantily.herokuapp.com/" target="_blank" rel="noreferrer">
+           <a href="https://plantily.up.railway.app/" target="_blank" rel="noreferrer">
               <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px">
            </a>
         </p>
-        <p align="center"><strong>CRUD Web App - Bootstrap, MongoDB, Express, EJS, Oauth, Passport, live on Heroku </strong></p>
+        <p align="center"><strong>CRUD Web App - Bootstrap, MongoDB, Express, EJS, Oauth, Passport, live on Railway </strong></p>
     </td>
   </tr>
   <tr>
@@ -87,7 +87,7 @@ After a successful career in the Aerospace industry as a Mechanical Engineer, I 
        <h3 align="center">Kitty Cat Fact Generator</h3>
        <br/>
        <p align="center">
-            <a target="_blank" href="https://kitty-cat-fact-generator.herokuapp.com/">
+            <a target="_blank" href="https://kitty-cat-fact-generator-production.up.railway.app/">
                <img src="https://github.com/LuisEJaar/luisEJaar/blob/main/kittyCatFact.gif" width="95%" height="270px" alt="kitty-cat-fact-generator Site"/>
             </a>
        </p>
@@ -96,11 +96,11 @@ After a successful career in the Aerospace industry as a Mechanical Engineer, I 
          <a href="https://github.com/LuisEJaar/kitty-cat-fact-generator" target="_blank">
             <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button to repository" height ="25px">
          </a> 
-         <a href="https://kitty-cat-fact-generator.herokuapp.com/" target="_blank">
+         <a href="https://kitty-cat-fact-generator-production.up.railway.app/" target="_blank">
             <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button to live site" height="25px"></a>
          </a>
       </p>
-      <p align="center"><strong>Web Development - animate.css, Node.js Hosted on Heroku</strong></p>
+      <p align="center"><strong>Web Development - animate.css, Node.js Hosted on Railway</strong></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Travel Diary</h3>
